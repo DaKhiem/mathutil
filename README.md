@@ -9,6 +9,14 @@
 * A CI (Continuous Integration) script to demonstrate CI technique using GitHub Actions
 *...
 
+## Screen Shots
+
+### DDT, TDD Test script with JUnit
+![TDD, DDT with JUnit](https://github.com/DaKhiem/mathutil/blob/main/screenshots/JUNIT%20with%20TDD%20DDT.png)
+
+### Maven builder to build .jar file
+![Maven Builder](https://github.com/DaKhiem/mathutil/blob/main/screenshots/Maven%20Builder.png)
+
 ### Connect me via: khiempham2k4@gmail.com
 
 #### &#169; 2025 DaKhiem
