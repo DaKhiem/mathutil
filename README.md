@@ -1,3 +1,6 @@
+[![Math Utility Project (CI included) | © 2025 by DaKhiem](https://github.com/DaKhiem/mathutil/actions/workflows/jack97-cirunner.yml/badge.svg)](https://github.com/DaKhiem/mathutil/actions/workflows/jack97-cirunner.yml)
+
+
 # Welcome to Math Utility Repository
 
 ## You will find in this repo the following stuff:
